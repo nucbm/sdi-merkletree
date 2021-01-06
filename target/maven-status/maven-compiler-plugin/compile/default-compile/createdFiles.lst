@@ -1,6 +1,0 @@
-simple/chain/Tx.class
-simple/chain/Transaction.class
-simple/chain/Block.class
-helpers/SHA256.class
-simple/chain/SimpleBlockchain.class
-simple/chain/Miner.class
