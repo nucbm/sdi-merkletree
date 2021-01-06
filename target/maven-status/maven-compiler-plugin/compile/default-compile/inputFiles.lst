@@ -1,0 +1,6 @@
+/home/ccostea/sdi/merkletree/src/main/java/simple/chain/Tx.java
+/home/ccostea/sdi/merkletree/src/main/java/simple/chain/SimpleBlockchain.java
+/home/ccostea/sdi/merkletree/src/main/java/simple/chain/Transaction.java
+/home/ccostea/sdi/merkletree/src/main/java/helpers/SHA256.java
+/home/ccostea/sdi/merkletree/src/main/java/simple/chain/Miner.java
+/home/ccostea/sdi/merkletree/src/main/java/simple/chain/Block.java
