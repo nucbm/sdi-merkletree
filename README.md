@@ -1,4 +1,4 @@
-# Simple Blockchain Java Reference Implementation 
+# Simple Blockchain Java Implementation 
 
 This repo contains an example of a Merkle tree/blockchain written in Java.
 
